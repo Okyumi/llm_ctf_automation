@@ -157,8 +157,6 @@ class Tool:
     required_parameters : set[str]
     """The required parameters of the tool"""
     
-    _notes = []
-
     @classmethod
     def get_all_subclasses(cls):
         subclasses = cls.__subclasses__()
