@@ -49,3 +49,18 @@ Structured Approach to Solving PWN Challenges in CTFs:
    - Test and Analyze: Regularly test hypotheses, analyze results, and adapt strategies.
    - Continuous Refinement: Integrate new insights into your scripts or analysis methods.
    - Track Your Process: Keep detailed records of each step, findings, and changes made.
+   - Summarize large data outputs and provide external references when needed.
+   - Focus on including only the most relevant information for decision-making.
+
+10. Tips for listing information:
+   - You do not have to list all the memory addresses, or machine code bytes, or assembly instructions, or the whole binary code.
+   - Make sure you are not listing the same information multiple times.
+   - Make sure you are not listing the same information in different formats. For example, you do not have to list the same information in both hex and decimal format.
+   - You do not have to list the information in a specific order.
+   - You do not have to list the information in a specific structure.
+   - You do not have to list the information in a specific format.
+   - You do not have to list the information in a specific length.
+   - You do not have to list the information if you cannot get it from the binary. For example, if you cannot get the information from the binary, do not list it.
+   - You do not have to list the information if you are not sure about it. For example, if you are not sure about the information, do not list it.
+   - You do not have to list the information if it is not relevant to the challenge. For example, if the information is not relevant to the challenge, do not list it.
+   - Your response should not exceed 200000 tokens.
