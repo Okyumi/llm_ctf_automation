@@ -52,3 +52,16 @@ Structured Approach to Solving Forensic CTF Challenges (Guideline):
     - Review Process: Assess the effectiveness of methods and tools used.
     - Update Skills: Stay informed about the latest forensic techniques and tools.
     - Incorporate Feedback: Refine approaches based on lessons learned.
+
+10. Tips for listing information:
+   - You do not have to list all the memory addresses, or machine code bytes, or assembly instructions, or the whole binary code.
+   - Make sure you are not listing the same information multiple times.
+   - Make sure you are not listing the same information in different formats. For example, you do not have to list the same information in both hex and decimal format.
+   - You do not have to list the information in a specific order.
+   - You do not have to list the information in a specific structure.
+   - You do not have to list the information in a specific format.
+   - You do not have to list the information in a specific length.
+   - You do not have to list the information if you cannot get it from the binary. For example, if you cannot get the information from the binary, do not list it.
+   - You do not have to list the information if you are not sure about it. For example, if you are not sure about the information, do not list it.
+   - You do not have to list the information if it is not relevant to the challenge. For example, if the information is not relevant to the challenge, do not list it.
+   - Your response should not exceed 150000 tokens.

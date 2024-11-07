@@ -1,10 +1,10 @@
 experiment:
-  name: "PokemonMaster_Warmup_0"
+  name: "Misc_0"
   debug: True
   skip_exist: False
 
 parameter:
-  max_rounds: 50
+  max_rounds: 30
   max_cost: 3
   backend: "anthropic"
   model: "claude-3-5-sonnet-20240620"
@@ -47,6 +47,6 @@ prompts:
     Record your discoveries. Do you see any vulnerabilities? What tools and approaches can be used? Proceed methodically, updating the strategy based on new information and findings. Verify your assumptions.
 demostration:
   hints:
-    - "hints/forensic_hint.md"
+    - "hints/misc_hint.md"
 
 
